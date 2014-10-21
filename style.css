@@ -67,7 +67,7 @@ body {
 .bio{
     background-color: #333333;
     color: #FFFFFF;
-    margin: 20px 30px;
+    margin: 20px 30px 0 30px;
     padding: 15px;
     font-family: 'Exo 2', sans-serif;
     font-weight: 100;
@@ -91,7 +91,7 @@ body {
 .portfolio {
     background-color: #333333;
     padding: 15px;
-    margin: 50px 30px;
+    margin: 20px 30px;
     text-align: center;
     border: 2px solid black;
 }
